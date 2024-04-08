@@ -2,7 +2,8 @@
 
 Welcome to the Data Wrangling Quest!
 
-![Sharks](https://i.imgur.com/your_image_filename.jpg)
+![Shark](https://i.pinimg.com/564x/26/37/42/263742121912894412.jpg)
+
 
 ## Mission
 The mission of this quest is to clean the messy ["Shark Attacks"](https://www.sharkattackfile.net/incidentlog.htm) dataset using data wrangling techniques, preparing it for insightful analysis.
